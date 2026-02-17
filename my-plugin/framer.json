@@ -1,8 +1,0 @@
-{
-  "id": "bf7002",
-  "name": "My Plugin",
-  "modes": [
-    "canvas"
-  ],
-  "icon": "/icon.svg"
-}
