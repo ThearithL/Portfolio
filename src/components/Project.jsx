@@ -52,7 +52,7 @@ export default function Project() {
             <div className="w-full lg:w-1/4">
               <img
                 // Fixed: Corrected template literal syntax for the src
-                src={project.image}
+                src={`${project.image}`}
                 alt={project.title}
                 width={150}
                 height={150}
