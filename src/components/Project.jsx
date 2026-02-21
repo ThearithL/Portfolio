@@ -89,7 +89,10 @@
 
 import React from "react";
 import { PROJECTS } from "../Constants";
-
+import "../public/images/Project1.png";
+import "../public/images/Project2.png";
+import "../public/images/Project3.png";
+import "../public/images/Project4.png";
 export default function Project() {
   return (
     <div className="border-b border-neutral-900 pb-4">
