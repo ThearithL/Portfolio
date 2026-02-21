@@ -41,28 +41,28 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "E-Commerce Interface",
-    image: URL="../public/image/Project1.png",
+    image: URL="/public/image/Project1.png",
     description:
       "A high-performance storefront featuring smooth page transitions, advanced filtering, and a mobile-first checkout flow.",
     technologies: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
   },
   {
     title: "Interactive Dashboard",
-    image: URL="../public/image/Project2.png",
+    image: URL="/public/image/Project2.png",
     description:
       "A data visualization platform featuring interactive charts, real-time updates, and customizable dark/light themes.",
     technologies: ["Angular", "D3.js", "SASS", "TypeScript"],
   },
   {
     title: "Creative Portfolio",
-    image: URL="../public/image/Project3.png",
+    image: URL="/public/image/Project3.png",
     description:
       "A minimalist portfolio featuring 3D elements and smooth scroll interactions to showcase high-end design work.",
     technologies: ["React", "Three.js", "GSAP", "CSS Modules"],
   },
   {
     title: "Social Media UI Kit",
-    image: URL="../public/image/Project4.png",
+    image: URL="/public/image/Project4.png",
     description:
       "A comprehensive UI library of reusable components designed for social networking apps, focused on speed and accessibility.",
     technologies: ["Vue.js", "Storybook", "PostCSS", "Vite"],
